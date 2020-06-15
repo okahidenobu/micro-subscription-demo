@@ -1,0 +1,31 @@
+{
+  "development": {
+    "username": "docker",
+    "password": "docker",
+    "database": "test",
+    "host": "mariadb",
+    "port": "3306",
+    "dialect": "mariadb",
+    "dialectOptions": {
+      "timezone": "Asia/Tokyo"
+    }
+  },
+  "test": {
+    "use_env_variable": "DATABASE_URL",
+    "dialectOptions": {
+      "timezone": "Asia/Tokyo"
+    }
+  },
+  "staging": {
+    "use_env_variable": "DATABASE_URL",
+    "dialectOptions": {
+      "timezone": "Asia/Tokyo"
+    }
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL",
+    "dialectOptions": {
+      "timezone": "Asia/Tokyo"
+    }
+  }
+}

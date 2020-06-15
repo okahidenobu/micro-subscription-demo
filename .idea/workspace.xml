@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="" />
+    <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docker/node/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker/node/src" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -56,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592191903443</updated>
       <workItem from="1592191906109" duration="9323000" />
+      <workItem from="1592206238674" duration="52000" />
     </task>
     <servers />
   </component>
