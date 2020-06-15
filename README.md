@@ -22,3 +22,15 @@ docker-compose exec node yarn start
 でサーバーを起動
 http://localhost:8092
  でgraphqlのIDEが利用できる
+ 
+ 
+ query例
+ ```
+ {
+  getUsers {
+    id
+    firstName
+    lastName
+  }
+}
+ ```
