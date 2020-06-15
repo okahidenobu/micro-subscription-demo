@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dL6D3T7Wj0ddXa08XqLyDzwHsq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker/node/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/node/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/node/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docker/node" />
+      <recent name="$PROJECT_DIR$/docker/mariadb" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="" />
+      <created>1592191903443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592191903443</updated>
+      <workItem from="1592191906109" duration="9323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="918" height="290" key="GridCell.Tab.0.bottom" timestamp="1592192036629">
+      <screen x="-1920" y="-313" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-313.1920.1057@-1920.-313.1920.1057" timestamp="1592192036629" />
+    <state width="918" height="290" key="GridCell.Tab.0.center" timestamp="1592192036628">
+      <screen x="-1920" y="-313" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-313.1920.1057@-1920.-313.1920.1057" timestamp="1592192036628" />
+    <state width="918" height="290" key="GridCell.Tab.0.left" timestamp="1592192036627">
+      <screen x="-1920" y="-313" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-313.1920.1057@-1920.-313.1920.1057" timestamp="1592192036627" />
+    <state width="918" height="290" key="GridCell.Tab.0.right" timestamp="1592192036628">
+      <screen x="-1920" y="-313" width="1920" height="1057" />
+    </state>
+    <state width="918" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-313.1920.1057@-1920.-313.1920.1057" timestamp="1592192036628" />
+    <state x="-1622" y="146" key="NewPhpFileDialog" timestamp="1592197288072">
+      <screen x="-1920" y="-313" width="1920" height="1057" />
+    </state>
+    <state x="-1622" y="146" key="NewPhpFileDialog/0.23.1440.877/-1920.-313.1920.1057@-1920.-313.1920.1057" timestamp="1592197288072" />
+  </component>
+</project>
