@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ibtmp1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/test/SequelizeMeta.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/test/SequelizeMeta.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/node/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/node/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/node/src/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +57,7 @@
       <updated>1592191903443</updated>
       <workItem from="1592191906109" duration="9323000" />
       <workItem from="1592206238674" duration="2496000" />
-      <workItem from="1592269266363" duration="304000" />
+      <workItem from="1592269266363" duration="437000" />
     </task>
     <servers />
   </component>
