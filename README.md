@@ -20,7 +20,7 @@ docker-compose exec node sequelize db:migrate --env development
 docker-compose exec node yarn start
 ```
 でサーバーを起動
-http://localhost:8092
+http://localhost:8092/graphql
  でgraphqlのIDEが利用できる
  
  
