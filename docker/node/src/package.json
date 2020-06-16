@@ -4,11 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "apollo-server-express": "^2.14.4",
     "apollo-server-micro": "^2.14.4",
+    "express": "^4.17.1",
     "graphql-subscriptions": "^1.1.0",
+    "mariadb": "^2.4.0",
     "micro": "^9.3.4",
     "nodemon": "^2.0.4",
-    "mariadb": "^2.4.0",
     "sequelize": "^5.21.13"
   },
   "scripts": {

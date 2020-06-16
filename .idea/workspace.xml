@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07ed3f0-7a9c-496b-ab5d-a85799f01dee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docker/node/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mariadb/data/test/SequelizeMeta.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mariadb/data/test/SequelizeMeta.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/node/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/node/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/node/src/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/docker/node/src/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +44,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docker/node/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docker/node/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/docker/node" />
       <recent name="$PROJECT_DIR$/docker/mariadb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/node/src" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -58,12 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1592191903443</updated>
       <workItem from="1592191906109" duration="9323000" />
-      <workItem from="1592206238674" duration="52000" />
+      <workItem from="1592206238674" duration="2496000" />
+      <workItem from="1592269266363" duration="304000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/docker/node/src/node_modules/apollo-env/src/fetch/index.d.ts" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="918" height="290" key="GridCell.Tab.0.bottom" timestamp="1592192036629">
